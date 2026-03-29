@@ -11,7 +11,7 @@
 
 - 🌍 Contributing to Open Source.
 
-- 📚 Learning about AI, Token Engineering and DePIN.
+- 📚 Electrical Engineering Master's student.
 
 <br/>
 
