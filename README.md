@@ -4,15 +4,14 @@
 <!-- [<img src='media/icons8-twitter-circled.svg' alt='twitter' height='40'>](https://twitter.com/0xChijioke)  [<img src='media/icons8-medium-new.svg' alt='medium' height='40'>](https://medium.com/@engrgord) -->
 <br />
 <!-- <img alt="Chijioke Ogbuanya" align="right" src="https://raw.github.com/0xChijoke/0xChijoke/master/pngwing.com.png" width="400px"/> -->
-<h3><strong>web3 Engineering</strong></h3>
+<h3><strong>Engineering</strong></h3>
 <br/>
 
 - 🔭 Explorer.
 
 - 🌍 Contributing to Open Source.
 
-- 📚 Electrical Engineering Master's student.
-
+- 📚 Automatic Control Systems Engineering.
 <br/>
 
 <a href='https://github.com/pricing'></a> 
